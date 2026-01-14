@@ -1,5 +1,4 @@
-# test
+# My MADA Portfolio
 
-test 123123321
-## test 
-Test edit from Positron
+This repository contains my course portfolio website for
+Modern Applied Data Analysis (MADA).
